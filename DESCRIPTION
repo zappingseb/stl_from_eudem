@@ -9,6 +9,7 @@ Depends: R (>= 3.5.0), raster,
 Imports:
   magrittr,
   r2stl,
+  rgl,
   rgdal,
   reshape2,
   sp
